@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster-sandbox/static/css/main.aaf71fb3.chunk.css",
+    "main.js": "/monster-sandbox/static/js/main.4656968c.chunk.js",
+    "main.js.map": "/monster-sandbox/static/js/main.4656968c.chunk.js.map",
+    "runtime-main.js": "/monster-sandbox/static/js/runtime-main.2020b755.js",
+    "runtime-main.js.map": "/monster-sandbox/static/js/runtime-main.2020b755.js.map",
+    "static/js/2.eca49929.chunk.js": "/monster-sandbox/static/js/2.eca49929.chunk.js",
+    "static/js/2.eca49929.chunk.js.map": "/monster-sandbox/static/js/2.eca49929.chunk.js.map",
+    "index.html": "/monster-sandbox/index.html",
+    "precache-manifest.b79f2aec5391e596aa45a1ceaee7eaa7.js": "/monster-sandbox/precache-manifest.b79f2aec5391e596aa45a1ceaee7eaa7.js",
+    "service-worker.js": "/monster-sandbox/service-worker.js",
+    "static/css/main.aaf71fb3.chunk.css.map": "/monster-sandbox/static/css/main.aaf71fb3.chunk.css.map",
+    "static/js/2.eca49929.chunk.js.LICENSE.txt": "/monster-sandbox/static/js/2.eca49929.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2020b755.js",
+    "static/js/2.eca49929.chunk.js",
+    "static/css/main.aaf71fb3.chunk.css",
+    "static/js/main.4656968c.chunk.js"
+  ]
+}
